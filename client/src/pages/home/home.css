@@ -1,0 +1,29 @@
+.home {
+    background-color: rgb(255, 255, 255);
+}
+
+.main-content {
+    height: 100dvh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.home-text {
+    margin: 2rem;
+}
+
+.home-text > div {
+    font-size: 2.4rem;
+    font-weight: 600;
+}
+
+.home-text > p {
+    padding: 0 1rem;
+    font-size: 1.1rem;
+}
+
+.home-text > span {
+    padding: 1rem 3rem;
+    font-size: larger;
+}

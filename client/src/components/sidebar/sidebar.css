@@ -1,0 +1,34 @@
+.sidebar {
+    display: block;
+    /* position: fixed; */
+    /* right: 0; */
+    background-color: rgb(221, 221, 221);
+    float: right;
+    /* height: 90dvh; */
+    /* margin: auto; */
+    padding: 2rem ;
+    max-height: max-content;
+    overflow-y: hidden;
+
+    /* top: 80px; */
+}
+.options {
+    height: 78dvh;
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+ flex-direction: column;
+ gap: 40px;
+}
+
+.option{
+  font-size: 1.1rem;
+  cursor: pointer;
+  color: rgb(82, 82, 82);
+}
+
+.option:hover {
+ color: black;
+ padding: 1rem 0;
+ border-bottom: 2px solid black;
+}
