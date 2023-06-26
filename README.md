@@ -2,6 +2,8 @@
 
 **Pixel Lab**  is a image processing web application which offers services like : 
 
+!["Preview Image Not Found"](https://github.com/SwapnilThatte/Pixel-Lab/blob/main/preview-image1.jpg?raw=true)
+
 - Image Resolution Enhancement 
 
 - Converstion of Black and White Images to Color Images
