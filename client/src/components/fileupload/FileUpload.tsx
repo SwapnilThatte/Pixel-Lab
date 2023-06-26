@@ -1,7 +1,12 @@
 import React from 'react'
 import './fileUpload.css'
 
-export const FileUpload = () => {
+interface image_info {
+  "action" : string
+}
+
+export const FileUpload = (props : image_info) => {
+  
   return (
     <div className='fileupload'>
             <label htmlFor="upload" className='label-upload'>

@@ -1,0 +1,17 @@
+.optionbar {
+    background-color: whitesmoke;
+    padding: 0.6rem 1.6rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.optionbar-option {
+    text-decoration: none;
+    color: rgba(31, 31, 31, 0.753);
+}
+
+.optionbar-option:hover {
+    color: black;
+}
